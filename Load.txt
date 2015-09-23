@@ -1,0 +1,54 @@
+0Health potion
+0Greater health potion
+0Elixir
+0Berserk potion
+0Accuracy potion
+0Spell potion
+0Flashbang
+0He grenade
+0Jarate
+0Storm potion
+0Poison dart
+0Arrow
+0Knife
+0Dagger
+0Katara
+0Stilleto
+0Wizard's staff
+0Sorceror's staff
+0Warlock staff
+0Maelstrom staff
+0Arcanomancer's wand
+0Pyromancer's wand
+0Cryomancer's wand
+0Meat Cleaver
+0Axe
+0Double-axe
+0Battleaxe
+0Longsword
+0Broadsword
+0Light blade
+0Shining blade
+player1
+Mage
+1
+0
+0
+2
+goblin
+rune
+1
+0
+25
+25
+10
+10
+3
+4
+0
+65
+5
+0
+0
+0
+0
